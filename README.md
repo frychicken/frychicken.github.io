@@ -13,9 +13,10 @@ Welcome to my website
 
 <hr>
 
-<img align="left" src="businesscard2.png" height="200px" > 
+<img  src="businesscard2.png" height="200px" > 
 
 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ### About me
 
