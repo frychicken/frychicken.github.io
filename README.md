@@ -13,6 +13,10 @@ Welcome to my website
 
 <hr>
 
+<img align="left" src="businesscard2.png" height="200px" > 
+
+
+
 ### About me
 
 - A Programmer who happens to be a designer, a network engineerer, and a body builder
@@ -20,6 +24,9 @@ Welcome to my website
 - [Portfolio](https://frychicken.github.io/Portfolio/) | [Blog](https://frychicken.github.io/blog/) | [my website](https://null0verflow.xyz)
 - 📫 How to reach me bobdinh139@icloud.com
 
+<br>
+
+<hr>
 ### Platform:
 <img align="left" alt="Windows" width="40px" src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
 <img align="left" alt="MAC" width="40px" src="https://img.icons8.com/color/48/000000/mac-logo.png"/>
