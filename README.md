@@ -27,12 +27,10 @@ Welcome to my website
 <br>
 
 <hr>
-### Platform:
-<img align="left" alt="Windows" width="40px" src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
-<img align="left" alt="MAC" width="40px" src="https://img.icons8.com/color/48/000000/mac-logo.png"/>
-<img align="left" alt="Linux" width="40px" src="https://img.icons8.com/color/48/000000/linux.png"/>
-<img align="left" alt="IOS" width="40px" src="https://img.icons8.com/color/50/000000/ios-logo.png"/>
-<img align="left" alt="Android" width="40px" src="https://img.icons8.com/color/48/000000/android-os.png"/>
+### Stats:
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=frychicken&hide=html&langs_count=7&layout=compact)](https://github.com/frychicken)
+
 
 <br>
 
