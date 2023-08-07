@@ -22,6 +22,7 @@ Welcome to my website
 
 - A Programmer who happens to be a designer, a network engineerer, and a body builder
 - [Portfolio](https://frychicken.github.io/Portfolio/) | [Blog](https://frychicken.github.io/blog/) | [my website](https://null0verflow.xyz)
+- My gist: [https://gist.github.com/frychicken](https://gist.github.com/frychicken)
 - 📫 How to reach me bobdinh139@icloud.com
 
 <br>
