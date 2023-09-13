@@ -5,9 +5,9 @@ Welcome to my website
 
 ### Resume 
 
-<object data="/2023resumev6.pdf" type="application/pdf" width="800px" height="800px">
-    <embed src="/2023resumev6.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/2023resumev6.pdf">Download PDF</a>.</p>
+<object data="/Duong_Dinh222.pdf" type="application/pdf" width="800px" height="800px">
+    <embed src="/Duong_Dinh222.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/Duong_Dinh222.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
